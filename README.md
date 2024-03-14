@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning: Python, C/C++, SQL
+📫 How to reach me: kinglector.com
 <!--
 **lector2002/lector2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
